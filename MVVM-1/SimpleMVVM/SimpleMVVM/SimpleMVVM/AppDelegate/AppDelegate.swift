@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  SimpleMVVM
-//
-//  Created by Abhisek on 06/05/18.
-//  Copyright © 2018 Abhisek. All rights reserved.
-//
+
 
 import UIKit
 
